@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background: #faeff7;
-    color: #776e65;
+    color: #735570;
     font-family: "Clear Sans", Helvetica Neue, Arial, sans-serif;
     font-size: 18px;
 }
@@ -69,7 +69,7 @@ h1.title {
 .best-container {
     position: relative;
     display: inline-block;
-    background: #bbada0;
+    background: #bba0b7;
     padding: 15px 25px;
     font-size: 25px;
     height: 25px;
